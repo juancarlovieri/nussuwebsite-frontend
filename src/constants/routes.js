@@ -1,5 +1,5 @@
 export const Routes = {
-  backendRoot: "https://humble-finally-raven.ngrok-free.app",
+  backendRoot: "https://nussuwebsite-backend-77995810090f.herokuapp.com",
   index: "/",
   home: "/home",
   aboutUs: "/aboutus/aboutus",
