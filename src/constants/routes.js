@@ -1,5 +1,5 @@
 export const Routes = {
-  backendRoot: "https://nussuwebsite-backend-77995810090f.herokuapp.com",
+  backendRoot: "https://api.nussu.org",
   index: "/",
   home: "/home",
   aboutUs: "/aboutus/aboutus",
